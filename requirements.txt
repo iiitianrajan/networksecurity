@@ -5,8 +5,8 @@ scikit-learn
 matplotlib
 pymongo
 certifi
-python-dotenv
 dill
+mlflow
 pyaml
 
 ##-e .
